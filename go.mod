@@ -1,0 +1,1 @@
+module nova-go-service\n\ngo 1.20
